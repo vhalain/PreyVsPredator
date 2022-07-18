@@ -1,3 +1,3 @@
 # PreyVsPredator
 
-![Animation](./220719-PreyVsPredator.gif)
+![Animation](./220719_PreyVsPredator.gif)
